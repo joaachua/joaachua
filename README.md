@@ -1,4 +1,4 @@
-### JoannaChua - Developer Portfolio 🚀
+# JoannaChua - Developer Portfolio 🚀
 
 ## About Me ℹ️
 
